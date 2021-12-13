@@ -19,5 +19,7 @@
     {"title":"快播资源","api":"http://www.kuaibozy.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"红牛资源","api":"https://www.hongniuzy1.com/inc/apijson_vodhnm3u8.php/provide/vod/","datatype":"json","search":false},
     {"title":"北斗星","api":"https://v8.bdxzyapi.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
-    {"title":"飘花电影","api":"http://www.2mjtt.com/inc/api.php/provide/vod/","datatype":"xml","search":false}
+    {"title":"飘花电影","api":"http://www.2mjtt.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
+    {"title":"M3U8.TV资源","api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
+    {"title":"乐播电影","api":"https://www.lebo.la/api.php/provide/vod/at/xml/","datatype":"xml","search":true}	
 ]
